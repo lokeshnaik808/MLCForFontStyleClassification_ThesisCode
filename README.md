@@ -38,6 +38,9 @@ Note: The number of layers/channels / resnet blocks in the code can be modified 
 * Finally. Some sections have optional codes to analyze Image Dimensions in Training and Benchmark Datasets and
 analysis by comparing Layer Activations.
 
-Ideally, the cells should be executed sequentially, as present in notebook
+
+The notebook should be uploaded to Google colab and the mentioned folder structure should be put on file system like Google drive. When the file system is accessible to the notebook, the code cells in the notebook can be executed.
+
+Ideally, the cells should be executed sequentially, as present in notebook. Documentations of the code is also present in the notebook.
 
  
