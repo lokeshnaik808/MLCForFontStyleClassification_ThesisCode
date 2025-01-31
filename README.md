@@ -5,6 +5,8 @@
 This repository contains one Jupyter Notebook (ThesisCodeLokeshNaik.ipynb) and various folders for different datasets and folders for saving the created models ('contents' folder).
 The folder structure should be created before executing the provided code.
 
+The Jupyter Notebook was created in Google Colab. Python 3 was used to write the code. Google Drive was used as the file system for the code.
+
 Folder Structure and their descriptions are given below:
 ```
  - **/content/drive/MyDrive/Models** - Used to save the models.
