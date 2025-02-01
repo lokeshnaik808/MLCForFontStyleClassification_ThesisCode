@@ -1,4 +1,6 @@
-# Multi-Label Classification for Font Style Recognition
+# Multi-Label Classification for Font Style Recognition Thesis Code
+
+## Metadata
 
 **Note**: Due to Github size constraints, the files have been compressed and uploaded. Please extract the two files (ThesisCodeLokeshNaik.7z and contents.7z) before further processing.
 
@@ -37,6 +39,15 @@ Note: The number of layers/channels / resnet blocks in the code can be modified 
 * Then, there is a section that includes the code used to generate training data and create datasets for each type of classifier (OVL or MCC).
 * Finally. Some sections have optional codes to analyze Image Dimensions in Training and Benchmark Datasets and
 analysis by comparing Layer Activations.
+
+## Requirements
+
+* Hardware
+ - **Memory**: 8-12 GBs RAM
+ - **Storage**: 300 MBs Disk Space 
+* Software
+ - Google Colab
+ - Python 3
 
 
 The notebook should be uploaded to Google colab and the mentioned folder structure should be put on file system like Google drive. When the file system is accessible to the notebook, the code cells in the notebook can be executed.
